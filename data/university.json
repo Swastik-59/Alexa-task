@@ -1,0 +1,29 @@
+{
+  "university": {
+    "name": "SRM Institute of Science and Technology",
+    "departments": [
+      {
+        "name": "Computer Science",
+        "professors": [
+          {
+            "name": "Dr. john doe",
+            "courses": [
+              "AI",
+              "ML"
+            ]
+          }
+        ],
+        "students": [
+          {
+            "name": "Swastik",
+            "regNumber": "RA2411026010181",
+            "courses": [
+              "AI & ML",
+              "Data Science"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
